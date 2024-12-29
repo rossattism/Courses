@@ -14,7 +14,7 @@
 </b> </p> 
 
 ## 2024
-[Front End BA](https://github.com/rossattism/FrontEnd_AgenciaBA) - Web made for the Front End Development course by "Agencia de Habilidades para el Futuro" of Buenos Aires. <br />
+[Front End BA](https://github.com/rossattism/FrontEnd_AgenciaBA) - Web made for the Front End course by "Agencia de Habilidades para el Futuro" of Buenos Aires. <br />
 [UX-UI BA]() - Figma Project made for the UX-UI Professional Certification Course by "Agencia de Habilidades para el Futuro" of Buenos Aires.
 
 
